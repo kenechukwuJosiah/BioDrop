@@ -1,0 +1,48 @@
+{
+  "name": "Kenechukwu Josiah",
+  "bio": "Fullstack web developer with passion for creating elegant solution.",
+  "tags": [
+    "Typescript",
+    "JavaScript",
+    "VueJs",
+    "V8",
+    "NodeJS",
+    "Express",
+    "Open Source",
+    "Software Engineer"
+  ],
+  "socials": [
+    {
+      "icon": "FaTwitter",
+      "url": "https://twitter.com/Orbit_VII"
+    },
+    {
+      "icon": "FaGithub",
+      "url": "https://github.com/kenechukwuJosiah"
+    },
+    {
+      "icon": "FaLinkedin",
+      "url": "https://www.linkedin.com/in/kenechukwu-josiah-543926214/"
+    }
+  ],
+  "links": [
+    {
+      "group": "Socials",
+      "name": "Twitter",
+      "icon": "FaTwitter",
+      "url": "https://twitter.com/Orbit_VII"
+    },
+    {
+      "group": "Socials",
+      "name": "Github",
+      "icon": "FaGithub",
+      "url": "https://github.com/kenechukwuJosiah"
+    },
+    {
+      "group": "Socials",
+      "name": "LinkedIn",
+      "icon": "FaLinkedin",
+      "url": "https://www.linkedin.com/in/kenechukwu-josiah-543926214/"
+    }
+  ]
+}
